@@ -8,7 +8,8 @@ def second_challenge
 
   #code your solution here!
   
-  groceries.values
+  list = groceries.values
   
-
+  list.collect do|elem|
+  end
 end
