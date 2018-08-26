@@ -10,7 +10,4 @@ def second_challenge
   
   list = groceries.values
   
-  list.collect do|elem|
-  elem
-  end
 end
